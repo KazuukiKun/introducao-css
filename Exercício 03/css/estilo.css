@@ -1,0 +1,35 @@
+#formulario{
+    border: 1px solid black;
+    background-color: rgb(246, 230, 211);
+    margin-left: 450px;
+    margin-top: 150px;
+    border-radius: 20px 20px;
+    width: 25%;
+    
+}
+body{
+    background-image: url(../imagens/bg.jpg);
+    margin: 0;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+.campo{
+    text-align: center;
+    padding-bottom: 10px;
+}
+a {
+    padding-left: 50%;
+}
+button{
+    display: block;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 10px 10px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 50px;
+    background-color: rgb(223, 107, 24);
+}

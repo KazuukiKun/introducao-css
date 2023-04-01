@@ -1,0 +1,43 @@
+figure{
+    border: 1px solid black;
+    width: 300px;
+    height: 600px;
+    margin-left: 500px;
+    border-radius: 20px 20px;
+    box-shadow: 5px 5px 10px black;
+}
+figure img{
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+
+}
+
+.estrelas img{
+    width: 100px;
+}
+.dist img{
+    width: 20px;
+    padding-left: 70px;
+
+}
+h1{
+    display: inline-block;
+}
+.clock{
+    width: 30px;
+    padding-left: 20px;
+    display: inline-block;
+}
+
+.reserva{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+    color: rgb(80, 129, 166);
+}
+.dias{
+    text-align: center;
+}
+figcaption{
+    padding-left: 8px;
+}
